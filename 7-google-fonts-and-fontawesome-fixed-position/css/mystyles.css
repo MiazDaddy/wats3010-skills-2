@@ -1,0 +1,7 @@
+p:nth-child(even) {
+  font-family: 'Germania One', cursive;
+}
+
+p:nth-child(odd) {
+  font-family: 'Source Code Pro', monospace;
+}

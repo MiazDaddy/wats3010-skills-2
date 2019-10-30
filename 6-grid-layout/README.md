@@ -20,10 +20,6 @@ Back in 2006,  there was a common layout that involved a header, a footer, a top
 ```
 2. Set the height of the document to the full height of the screen:
 ```
-html,
-    body {
-      height: 100vh;
-    }
 ```
 3. We'll style using some of the semantic tags and some of the classes.  First apply the grid layout to the container.  Use the fractional unit so that the grid cells fill the space provided. Use a grid gap to provide a space between cells. Set the height to 100% to fill the screen.  Set the background color to a shade of gray.  If you view your layout now it should appear as it would on a mobile browser as we coding mobile first.
 ```
