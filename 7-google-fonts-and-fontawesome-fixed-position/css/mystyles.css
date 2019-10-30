@@ -1,7 +1,20 @@
 p:nth-child(even) {
-  font-family: 'Germania One', cursive;
+  font-family: 'Orbitron', cursive;
 }
 
 p:nth-child(odd) {
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'Skranji', monospace;
+}
+.home {
+  position: fixed;
+  right: 5%;
+  bottom: 5%;
+}
+.fa-home {
+  font-size: 3rem;
+  color: red;
+}
+.fa-home:hover {
+  font-size: 5rem;
+  color:blue;
 }
